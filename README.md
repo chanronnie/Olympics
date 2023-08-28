@@ -1,6 +1,7 @@
 # Olympics Athletes Web Scraping Project (1896 - 2022)
-![luca-dugaro-51QuDmUuySk-unsplash](https://github.com/chanronnie/Olympics/assets/121308347/4cbe547f-5cfa-4a68-8cc4-fd17c41304a0)
-
+<p align="center">
+<img src = "https://github.com/chanronnie/Olympics/blob/main/image/olympics.jpg" width="500">
+</p>
 
 This repository contains all the files for my web scraping project. 
 My goal is to retrieve biographical data and game results for all Olympic athletes from 1896 to 2022 for both Summer and Winter games. 
