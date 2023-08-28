@@ -1,4 +1,7 @@
 # Olympics Athletes Web Scraping Project (1896 - 2022)
+![luca-dugaro-51QuDmUuySk-unsplash](https://github.com/chanronnie/Olympics/assets/121308347/4cbe547f-5cfa-4a68-8cc4-fd17c41304a0)
+
+
 This repository contains all the files for my web scraping project. 
 My goal is to retrieve biographical data and game results for all Olympic athletes from 1896 to 2022 for both Summer and Winter games. 
 To speed up my data scraping process, I am using the `threading concurrency` method, which allows me to handle and execute multiple tasks simultaneously by using the `concurrent.futures` library
@@ -81,8 +84,7 @@ year | season | game | host_city
 </details>
 
 ## 🚀Growth and Next Steps 
-**Current Performance:** Current data retrieval process, using thread concurrency, takes 4 to 6 hours for 155,600 URLs.\
-To improve efficiency further:
+**Current Performance:** Current data retrieval process, using thread concurrency, takes 4 to 6 hours for 155,600 URLs. To improve efficiency further:
 - I plan to implement the `asyncio` library for asynchronous programming.
 - Asynchronous tasks will allow for faster data retrieval with reduced overhead.
 - This change aims to significantly decrease scraping time.
