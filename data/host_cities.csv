@@ -1,63 +1,63 @@
-index,year,season,game,host_city
-0,1896,Summer,1896 Summer Olympics,Athina
-1,1900,Summer,1900 Summer Olympics,Paris
-2,1904,Summer,1904 Summer Olympics,St. Louis
-3,1908,Summer,1908 Summer Olympics,London
-4,1912,Summer,1912 Summer Olympics,Stockholm
-5,1916,Summer,1916 Summer Olympics,Berlin
-6,1920,Summer,1920 Summer Olympics,Antwerpen
-7,1924,Summer,1924 Summer Olympics,Paris
-8,1928,Summer,1928 Summer Olympics,Amsterdam
-9,1932,Summer,1932 Summer Olympics,Los Angeles
-10,1936,Summer,1936 Summer Olympics,Berlin
-11,1940,Summer,1940 Summer Olympics,Helsinki
-12,1944,Summer,1944 Summer Olympics,London
-13,1948,Summer,1948 Summer Olympics,London
-14,1952,Summer,1952 Summer Olympics,Helsinki
-15,1956,Summer,1956 Summer Olympics,Melbourne
-16,1960,Summer,1960 Summer Olympics,Roma
-17,1964,Summer,1964 Summer Olympics,Tokyo
-18,1968,Summer,1968 Summer Olympics,Ciudad de México
-19,1972,Summer,1972 Summer Olympics,München
-20,1976,Summer,1976 Summer Olympics,Montréal
-21,1980,Summer,1980 Summer Olympics,Moskva
-22,1984,Summer,1984 Summer Olympics,Los Angeles
-23,1988,Summer,1988 Summer Olympics,Seoul
-24,1992,Summer,1992 Summer Olympics,Barcelona
-25,1996,Summer,1996 Summer Olympics,Atlanta
-26,2000,Summer,2000 Summer Olympics,Sydney
-27,2004,Summer,2004 Summer Olympics,Athina
-28,2008,Summer,2008 Summer Olympics,Beijing
-29,2012,Summer,2012 Summer Olympics,London
-30,2016,Summer,2016 Summer Olympics,Rio de Janeiro
-31,2020,Summer,2020 Summer Olympics,Tokyo
-32,2024,Summer,2024 Summer Olympics,Paris
-33,2028,Summer,2028 Summer Olympics,Los Angeles
-34,2032,Summer,2032 Summer Olympics,Brisbane
-35,1924,Winter,1924 Winter Olympics,Chamonix
-36,1928,Winter,1928 Winter Olympics,Sankt Moritz
-37,1932,Winter,1932 Winter Olympics,Lake Placid
-38,1936,Winter,1936 Winter Olympics,Garmisch-Partenkirchen
-39,1940,Winter,1940 Winter Olympics,Garmisch-Partenkirchen
-40,1944,Winter,1944 Winter Olympics,Cortina d'Ampezzo
-41,1948,Winter,1948 Winter Olympics,Sankt Moritz
-42,1952,Winter,1952 Winter Olympics,Oslo
-43,1956,Winter,1956 Winter Olympics,Cortina d'Ampezzo
-44,1960,Winter,1960 Winter Olympics,Squaw Valley
-45,1964,Winter,1964 Winter Olympics,Innsbruck
-46,1968,Winter,1968 Winter Olympics,Grenoble
-47,1972,Winter,1972 Winter Olympics,Sapporo
-48,1976,Winter,1976 Winter Olympics,Innsbruck
-49,1980,Winter,1980 Winter Olympics,Lake Placid
-50,1984,Winter,1984 Winter Olympics,Sarajevo
-51,1988,Winter,1988 Winter Olympics,Calgary
-52,1992,Winter,1992 Winter Olympics,Albertville
-53,1994,Winter,1994 Winter Olympics,Lillehammer
-54,1998,Winter,1998 Winter Olympics,Nagano
-55,2002,Winter,2002 Winter Olympics,Salt Lake City
-56,2006,Winter,2006 Winter Olympics,Torino
-57,2010,Winter,2010 Winter Olympics,Vancouver
-58,2014,Winter,2014 Winter Olympics,Sochi
-59,2018,Winter,2018 Winter Olympics,PyeongChang
-60,2022,Winter,2022 Winter Olympics,Beijing
-61,2026,Winter,2026 Winter Olympics,Milano-Cortina d'Ampezzo
+year,season,game,host_city
+1896,Summer,1896 Summer Olympics,Athina
+1900,Summer,1900 Summer Olympics,Paris
+1904,Summer,1904 Summer Olympics,St. Louis
+1908,Summer,1908 Summer Olympics,London
+1912,Summer,1912 Summer Olympics,Stockholm
+1916,Summer,1916 Summer Olympics,Berlin
+1920,Summer,1920 Summer Olympics,Antwerpen
+1924,Summer,1924 Summer Olympics,Paris
+1928,Summer,1928 Summer Olympics,Amsterdam
+1932,Summer,1932 Summer Olympics,Los Angeles
+1936,Summer,1936 Summer Olympics,Berlin
+1940,Summer,1940 Summer Olympics,Helsinki
+1944,Summer,1944 Summer Olympics,London
+1948,Summer,1948 Summer Olympics,London
+1952,Summer,1952 Summer Olympics,Helsinki
+1956,Summer,1956 Summer Olympics,Melbourne
+1960,Summer,1960 Summer Olympics,Roma
+1964,Summer,1964 Summer Olympics,Tokyo
+1968,Summer,1968 Summer Olympics,Ciudad de México
+1972,Summer,1972 Summer Olympics,München
+1976,Summer,1976 Summer Olympics,Montréal
+1980,Summer,1980 Summer Olympics,Moskva
+1984,Summer,1984 Summer Olympics,Los Angeles
+1988,Summer,1988 Summer Olympics,Seoul
+1992,Summer,1992 Summer Olympics,Barcelona
+1996,Summer,1996 Summer Olympics,Atlanta
+2000,Summer,2000 Summer Olympics,Sydney
+2004,Summer,2004 Summer Olympics,Athina
+2008,Summer,2008 Summer Olympics,Beijing
+2012,Summer,2012 Summer Olympics,London
+2016,Summer,2016 Summer Olympics,Rio de Janeiro
+2020,Summer,2020 Summer Olympics,Tokyo
+2024,Summer,2024 Summer Olympics,Paris
+2028,Summer,2028 Summer Olympics,Los Angeles
+2032,Summer,2032 Summer Olympics,Brisbane
+1924,Winter,1924 Winter Olympics,Chamonix
+1928,Winter,1928 Winter Olympics,Sankt Moritz
+1932,Winter,1932 Winter Olympics,Lake Placid
+1936,Winter,1936 Winter Olympics,Garmisch-Partenkirchen
+1940,Winter,1940 Winter Olympics,Garmisch-Partenkirchen
+1944,Winter,1944 Winter Olympics,Cortina d'Ampezzo
+1948,Winter,1948 Winter Olympics,Sankt Moritz
+1952,Winter,1952 Winter Olympics,Oslo
+1956,Winter,1956 Winter Olympics,Cortina d'Ampezzo
+1960,Winter,1960 Winter Olympics,Squaw Valley
+1964,Winter,1964 Winter Olympics,Innsbruck
+1968,Winter,1968 Winter Olympics,Grenoble
+1972,Winter,1972 Winter Olympics,Sapporo
+1976,Winter,1976 Winter Olympics,Innsbruck
+1980,Winter,1980 Winter Olympics,Lake Placid
+1984,Winter,1984 Winter Olympics,Sarajevo
+1988,Winter,1988 Winter Olympics,Calgary
+1992,Winter,1992 Winter Olympics,Albertville
+1994,Winter,1994 Winter Olympics,Lillehammer
+1998,Winter,1998 Winter Olympics,Nagano
+2002,Winter,2002 Winter Olympics,Salt Lake City
+2006,Winter,2006 Winter Olympics,Torino
+2010,Winter,2010 Winter Olympics,Vancouver
+2014,Winter,2014 Winter Olympics,Sochi
+2018,Winter,2018 Winter Olympics,PyeongChang
+2022,Winter,2022 Winter Olympics,Beijing
+2026,Winter,2026 Winter Olympics,Milano-Cortina d'Ampezzo
