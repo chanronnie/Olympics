@@ -30,6 +30,16 @@ CREATE TABLE olympics.olympic_history
 );
 
 
+-- Create Table "athletes_roles"
+DROP TABLE IF EXISTS olympics.athletes_roles;
+CREATE TABLE olympics.athletes_roles
+(
+	id		INTEGER,
+	name 	VARCHAR,
+	roles 	VARCHAR
+);
+
+
 -- Create Table "host_cities"
 DROP TABLE IF EXISTS olympics.host_cities;
 CREATE TABLE olympics.host_cities
