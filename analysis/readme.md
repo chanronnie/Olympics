@@ -28,7 +28,7 @@ Note that I renamed the `athletes` dataset to `olympic_history` for my analysis.
 <details>
 <summary>View code to create ERD</summary>
   
-Here is the code that I used for creating the ERD for the Fresh Segments datasets on DB Diagram tool.
+Here is the code that I used for creating the ERD for the `Olympics` datasets on DB Diagram tool.
 
 ```markdown
 TABLE olympic_history
