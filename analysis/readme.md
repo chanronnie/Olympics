@@ -5,7 +5,8 @@
  I am conducting an exploratory data analysis on Olympic athletes from 1896 to 2022 using **PostgreSQL** and the datasets I created during my web scraping project (located in the [data folder](https://github.com/chanronnie/Olympics/tree/main/data)). Note that the obtained outputs will include data up to September 2023
 
 
-My objective in conducting a data analysis is to **verify the accuracy of the data I previously gathered through web scraping**. By comparing my collected data with the information available on [Olympedia website](https://www.olympedia.org), I aim to ensure the reliability and consistency of the datasets I have created.
+My objective in conducting a data analysis is to **verify the accuracy of the data I previously gathered through web scraping**. By comparing my collected data with the information available on [Olympedia website](https://www.olympedia.org), I aim to ensure the reliability and consistency of the datasets I have created. To view the data validation of my web-scraped data, please click here [olympics_data_validation.pdf
+](https://github.com/chanronnie/Olympics/blob/main/analysis/olympics_data_validation.pdf)
 
 ## Table Of Contents
 * [About Data](#about-data)
@@ -83,3 +84,4 @@ REF: olympic_history.noc > noc_countries.noc
 ## File Contents
 - View `olympics` database: **[olympics_schema.sql](https://github.com/chanronnie/Olympics/blob/main/analysis/olympics_schema.sql)**
 - View my SQL analysis notebook: **[olympics_analysis.ipynb](https://github.com/chanronnie/Olympics/blob/main/analysis/olympics_analysis.ipynb)**
+- View my data validation document: **[olympics_data_validation.pdf](https://github.com/chanronnie/Olympics/blob/main/analysis/olympics_data_validation.pdf)**
