@@ -46,14 +46,15 @@ To efficiently address the challenge of fetching a large number of URLs, I've im
 - View the Python code for URL collection: **[url_collector.ipynb](https://github.com/chanronnie/Olympics/blob/main/url_collector.ipynb)**
 - View the Python code for data scraping: **[data_scraper.ipynb](https://github.com/chanronnie/Olympics/blob/main/data_scraper.ipynb)**
 - View the collected list of URLs: **[athletes_urls.json](https://github.com/chanronnie/Olympics/blob/main/raw_data/athletes_urls.json)**
-- Access the datasets I created using the scraped data:
+- Access the datasets I created using the scraped data in the **[data folder](https://github.com/chanronnie/Olympics/tree/main/data)**:
   * **[athletes.csv](https://github.com/chanronnie/Olympics/blob/main/data/athletes.csv)**
+  * **[athletes_roles.csv](https://github.com/chanronnie/Olympics/blob/main/data/athletes_roles.csv)**
   * **[host_cities.csv](https://github.com/chanronnie/Olympics/blob/main/data/host_cities.csv)**
+  * **[noc_countries.csv](https://github.com/chanronnie/Olympics/blob/main/data/noc_countries.csv)**
 
  
 ## Datasets
 The datasets are stored in the **data** folder in CSV format. Here are previews of the available datasets:
-
 
 ### `athletes.csv`
 
@@ -70,6 +71,22 @@ id | name | gender | born | died | height | weight | noc | game | team | sport |
 
 </details>
 
+### `athletes_roles.csv`
+
+<details>
+  <summary>View Table: athletes_roles</summary>
+
+id | name | roles
+--- | --- | ---
+131892 | Meryem Erdoğan | Competed in Olympic Games
+4300 | Maurice Maina | Competed in Olympic Games
+60239 | Stanislav Tůma | Competed in Olympic Games
+129369 | Eunice Kirwa | Competed in Olympic Games
+142670 | Sinem Kurtbay | Competed in Olympic Games
+18974 | Werner Delmes | Competed in Olympic Games • Coach
+
+</details>
+
 ### `host_cities.csv`
 
 <details>
@@ -83,6 +100,21 @@ year | season | game | host_city
 1908 | Summer | 1908 Summer Olympics | London
 
 </details>
+
+### `noc_countries.csv`
+<details>
+  <summary>View Table: host_cities</summary>
+
+noc | country
+--- | --- 
+AFG | Afghanistan
+ALB | Albania
+ALG | Algeria
+ASA | American Samoa
+AND | Andorra
+
+</details>
+
 
 ## 🚀Growth and Next Steps 
 **Current Performance:** Current data retrieval process, using thread concurrency, takes 4 to 6 hours for 155,600 URLs. To improve efficiency further:
