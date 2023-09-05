@@ -49,3 +49,12 @@ CREATE TABLE olympics.host_cities
 	game 	VARCHAR,
 	host_city 	VARCHAR
 );
+
+
+-- Create Table "noc_countries"
+DROP TABLE IF EXISTS olympics.noc_countries;
+CREATE TABLE olympics.noc_countries
+(
+	noc VARCHAR,
+	country VARCHAR
+);
