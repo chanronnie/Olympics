@@ -24,6 +24,7 @@ The data for this project is scraped from the [Olympedia.org](https://www.olympe
 1. Gathering the URLs of all **countries** that participated in the Olympics.
 2. Collecting the URLs of all **games** in which each country participated (games are referred to as "editions" on the Olympedia website).
 3. Obtaining the URLs of all **athletes** who participated in those games.
+   
 This sequential process allows us to systematically gather the biographical data and game results of Olympic athletes from 1896 to 2022 for both Summer and Winter games.
 
 
@@ -51,8 +52,11 @@ To efficiently address the challenge of fetching a large number of URLs, I've im
   * **[athletes_roles.csv](https://github.com/chanronnie/Olympics/blob/main/data/athletes_roles.csv)**
   * **[host_cities.csv](https://github.com/chanronnie/Olympics/blob/main/data/host_cities.csv)**
   * **[noc_countries.csv](https://github.com/chanronnie/Olympics/blob/main/data/noc_countries.csv)**
+    
+- View my data analysis project using PostgreSQL: **[analysis folder](https://github.com/chanronnie/Olympics/tree/main/analysis)**
 
- 
+<br>
+
 ## Datasets
 The datasets are stored in the **data** folder in CSV format. Here are previews of the available datasets:
 
@@ -60,6 +64,8 @@ The datasets are stored in the **data** folder in CSV format. Here are previews 
 
 <details>
   <summary>View Table: athletes</summary>
+
+This table displays the statistics of Olympic athletes. Each row corresponds to every event in which the participant competed in all Olympic Games. Each row contains the biographical data of the athlete, along with the results and details of the game.
  
 id | name | gender | born | died | height | weight | noc | game | team | sport | event | medal
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -76,6 +82,18 @@ id | name | gender | born | died | height | weight | noc | game | team | sport |
 <details>
   <summary>View Table: athletes_roles</summary>
 
+This table lists the roles of each Olympic athlete. This dataset will be helpful when we are required to count the total number of participants in each Olympic game. Some of the available roles include:
+
+ - `Competed in Youth Olympic Games`
+ - `Competed in Intercalated Games`
+ - `Competed in Olympic Games`
+ - `Competed in Olympic Games (non-medal events)`
+ - `Non-starter`
+ - `Coach`
+ - `Referee`
+ - `Administrator`
+ - `Other`
+
 id | name | roles
 --- | --- | ---
 131892 | Meryem Erdoğan | Competed in Olympic Games
@@ -91,6 +109,8 @@ id | name | roles
 
 <details>
   <summary>View Table: host_cities</summary>
+
+This table lists all the Olympic Games that have been held throughout history. It includes the year of the games, the season, and the host city.
  
 year | season | game | host_city
 --- | --- | --- | ---  
@@ -104,6 +124,8 @@ year | season | game | host_city
 ### `noc_countries.csv`
 <details>
   <summary>View Table: host_cities</summary>
+ 
+ This table contained all the names and the corresponding NOCs of the countries that competed in the Modern Olympic Games.
 
 noc | country
 --- | --- 
@@ -115,6 +137,7 @@ AND | Andorra
 
 </details>
 
+<br>
 
 ## 🚀Growth and Next Steps 
 **Current Performance:** Current data retrieval process, using thread concurrency, takes 4 to 6 hours for 155,600 URLs. To improve efficiency further:
