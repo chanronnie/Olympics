@@ -2,6 +2,12 @@
 [![View Data Folder](https://img.shields.io/badge/View-Data_Folder-EE8E1A.svg?logo=GitHub)](https://github.com/chanronnie/Olympics/tree/main/data)
 
 # Data Analysis On Olympic Athletes (1896 - 2022)
+![glossy-winter-olympics-running-emoji-with-medals-ice-skates-and-whistle-2](https://github.com/chanronnie/Olympics/assets/121308347/daa85ad7-ac22-4271-82e3-36fd750037a4)
+<br>
+Illustration by <a href="https://icons8.com/illustrations/author/zD2oqC8lLBBA">Icons 8</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
+
+<br>
+
  I am conducting an exploratory data analysis on Olympic athletes from 1896 to 2022 using **PostgreSQL** and the datasets I created during my web scraping project (located in the [data folder](https://github.com/chanronnie/Olympics/tree/main/data)). Note that the obtained outputs will include data up to September 2023
 
 
