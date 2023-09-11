@@ -2,9 +2,7 @@
 [![View Data Folder](https://img.shields.io/badge/View-Data_Folder-EE8E1A.svg?logo=GitHub)](https://github.com/chanronnie/Olympics/tree/main/data)
 
 # Data Analysis On Olympic Athletes (1896 - 2022)
-![glossy-winter-olympics-running-emoji-with-medals-ice-skates-and-whistle-2](https://github.com/chanronnie/Olympics/assets/121308347/daa85ad7-ac22-4271-82e3-36fd750037a4)
-<br>
-Illustration by <a href="https://icons8.com/illustrations/author/zD2oqC8lLBBA">Icons 8</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
+![google-deepmind-4nBaO2Y4IzQ-unsplash](https://github.com/chanronnie/Olympics/assets/121308347/d3562af4-c1ed-424b-a526-254efb917446)
 
 <br>
 
@@ -19,6 +17,7 @@ My objective in conducting a data analysis is to **verify the accuracy of the da
 * [Entity Relationship Diagram](#entity-relationship-diagram)
 * [Technologies](#technologies)
 * [File Contents](#file-contents)
+* [Insights](#insights)
 
 ## About Data
 The datasets that I am going to use are the datasets that I created using the data that I scraped from the [Olympedia website](https://www.olympedia.org).\
@@ -91,3 +90,13 @@ REF: olympic_history.noc > noc_countries.noc
 - View `olympics` database: **[olympics_schema.sql](https://github.com/chanronnie/Olympics/blob/main/analysis/olympics_schema.sql)**
 - View my SQL analysis notebook: **[olympics_analysis.ipynb](https://github.com/chanronnie/Olympics/blob/main/analysis/olympics_analysis.ipynb)**
 - View my data validation document: **[olympics_data_validation.pdf](https://github.com/chanronnie/Olympics/blob/main/analysis/olympics_data_validation.pdf)**
+
+
+## Insights
+- The very first Modern Olympic Games date back to the summer of 1896 and were hosted in the city of Athens, Greece, with only male athletes. Since 1896, a total of 53 Olympic Games have been held throughout history.
+- Women athletes were permitted to participate in the Olympic Games for the first time in the second Modern Olympic Games, held in the summer of 1900, with a total of 24 female Olympians. The sports they played included golf, tennis, croquet, equestrian, and sailing.
+- The ratio of male to female participants in all Olympic Games is 3:1, indicating that there have been three times more male athletes than female athletes in the Olympic Games.
+- The athlete with the most gold medals in Olympic history is the American swimmer Michael Phelps, who has a total of 23 gold medals.
+- The athlete with the most total medals is, once again, the American swimmer Michael Phelps, with a total of 28 medals. He is followed by the Russian gymnast Larisa Latynina, who has a total of 18 medals. The third athletes with the most medals are the Norwegian cross-country skier Marit Bjørgen (15 medals) and the Russian gymnast Nikolay Andrianov (15 medals).
+- The country with the most medals is the United States, with a total of 2,975 medals. The second is Russia, which has earned 1,197 medals. The third is Germany, with 1,087 medals. The fourth is Great Britain, with 976 medals.
+- Canada has won the most medals in athletics (64 medals), swimming, rowing, speed skating, and ice skating (in respective descending order).
