@@ -2,7 +2,8 @@
 [![View Data Folder](https://img.shields.io/badge/View-Data_Folder-EE8E1A.svg?logo=GitHub)](https://github.com/chanronnie/Olympics/tree/main/data)
 
 # Data Analysis On Olympic Athletes (1896 - 2022)
-![google-deepmind-4nBaO2Y4IzQ-unsplash](https://github.com/chanronnie/Olympics/assets/121308347/d3562af4-c1ed-424b-a526-254efb917446)
+![image](https://github.com/chanronnie/Olympics/assets/121308347/3889f76d-831a-4130-b2f3-086633a6cafb)
+
 
 <br>
 
